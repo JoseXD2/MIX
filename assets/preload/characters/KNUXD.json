@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				30,
+				-140
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "KNUXIDLE"
+		},
+		{
+			"offsets": [
+				-10,
+				-240
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "KNUXDDOWN"
+		},
+		{
+			"offsets": [
+				-10,
+				-170
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "KNUXDRIGHT"
+		},
+		{
+			"offsets": [
+				62,
+				-182
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "KNUXDLEFT"
+		},
+		{
+			"offsets": [
+				-6,
+				-99
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "singUP",
+			"loop": true,
+			"name": "KNUXDUP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/KNUXD",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mom",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		85,
+		142
+	],
+	"camera_position": [
+		-20,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

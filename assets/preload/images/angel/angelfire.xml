@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="angelfire.png">
+	<!-- Created with Adobe Animate version 16.1.0.86 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angelfire0000" x="0" y="0" width="2034" height="774" frameX="-12" frameY="0" frameWidth="2058" frameHeight="774"/>
+	<SubTexture name="angelfire0001" x="2055" y="0" width="2012" height="774" frameX="-23" frameY="0" frameWidth="2058" frameHeight="774"/>
+	<SubTexture name="angelfire0002" x="0" y="0" width="2034" height="774" frameX="-12" frameY="0" frameWidth="2058" frameHeight="774"/>
+	<SubTexture name="angelfire0003" x="0" y="795" width="2058" height="774"/>
+</TextureAtlas>

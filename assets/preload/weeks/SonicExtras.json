@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Ciclos", "Lord", [120, 119, 179]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "Town",
+	"difficulties": "diga-bye-bye",
+	"storyName": "",
+	"weekBefore": "",
+	"weekName": "",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

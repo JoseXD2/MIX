@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="Mountains.png" width="1807" height="1477">
+  <SubTexture name="Mountains007.png" x="0" y="0" width="482" height="799" rotated="true"  frameX="-19" frameY="-60" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="Mountains005.png" x="0" y="799" width="482" height="595" rotated="true"  frameX="-367" frameY="-60" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="Mountains011.png" x="0" y="1394" width="279" height="31" rotated="true"  frameX="-0" frameY="-263" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="Mountains001.png" x="0" y="1425" width="446" height="21" rotated="true"  frameX="-941" frameY="-96" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="Mountains006.png" x="482" y="0"  width="726" height="482" frameX="-236" frameY="-60" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="Mountains004.png" x="1208" y="0" width="481" height="442" rotated="true"  frameX="-520" frameY="-61" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="Mountains002.png" x="1208" y="442" width="481" height="160" rotated="true"  frameX="-752" frameY="-60" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="Mountains008.png" x="482" y="482"  width="689" height="447" frameX="-0" frameY="-95" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="Mountains003.png" x="482" y="929"  width="159" height="481" frameX="-633" frameY="-60" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="Mountains032.png" x="641" y="929" width="382" height="403" rotated="true"  frameX="-270" frameY="-159" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="Mountains031.png" x="1023" y="929" width="381" height="403" rotated="true"  frameX="-481" frameY="-161" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="Mountains033.png" x="1404" y="602"  width="403" height="380" frameX="-1" frameY="-162" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="Mountains009.png" x="1404" y="982"  width="403" height="320" frameX="-80" frameY="-222" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="Mountains034.png" x="1404" y="1302" width="374" height="175" rotated="true"  frameX="-0" frameY="-168" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="Mountains010.png" x="1171" y="602"  width="195" height="295" frameX="-0" frameY="-247" frameWidth="962" frameHeight="542"/>
+</TextureAtlas>

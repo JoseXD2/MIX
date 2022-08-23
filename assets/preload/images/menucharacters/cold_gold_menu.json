@@ -1,0 +1,11 @@
+{
+	
+	"image": "cold_gold_menu",
+	"position": [
+		200,
+		-50
+	],
+	"scale": 1,
+	"idle_anim": "cold gold menu instance",
+	"confirm_anim": "cold gold menu instance"
+}

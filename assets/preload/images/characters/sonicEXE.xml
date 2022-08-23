@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sonicexeassets.png(S.G.YT)">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SONIClaugh0000" x="456" y="702" width="512" height="695" frameX="-17" frameY="0" frameWidth="551" frameHeight="712"/>
+	<SubTexture name="SONIClaugh0001" x="991" y="701" width="510" height="672" frameX="-5" frameY="-25" frameWidth="551" frameHeight="712"/>
+	<SubTexture name="SONIClaugh0002" x="1528" y="700" width="511" height="666" frameX="-3" frameY="-33" frameWidth="551" frameHeight="712"/>
+	<SubTexture name="SONIClaugh0003" x="2067" y="700" width="513" height="661" frameX="-1" frameY="-37" frameWidth="551" frameHeight="712"/>
+	<SubTexture name="SONIClaugh0004" x="2067" y="700" width="513" height="661" frameX="-1" frameY="-40" frameWidth="551" frameHeight="712"/>
+	<SubTexture name="SONIClaugh0005" x="2067" y="700" width="513" height="661" frameX="0" frameY="-42" frameWidth="551" frameHeight="712"/>
+	<SubTexture name="SONICmoveDOWN0000" x="4" y="1550" width="519" height="536" frameX="-11" frameY="-20" frameWidth="578" frameHeight="579"/>
+	<SubTexture name="SONICmoveDOWN0001" x="558" y="1531" width="540" height="559" frameX="-3" frameY="-10" frameWidth="578" frameHeight="579"/>
+	<SubTexture name="SONICmoveDOWN0002" x="1108" y="1527" width="545" height="572" frameX="-1" frameY="-8" frameWidth="578" frameHeight="579"/>
+	<SubTexture name="SONICmoveIDLE0000" x="8" y="5" width="428" height="662" frameX="-4" frameY="-6" frameWidth="459" frameHeight="668"/>
+	<SubTexture name="SONICmoveIDLE0001" x="438" y="5" width="428" height="660" frameX="-4" frameY="-7" frameWidth="459" frameHeight="668"/>
+	<SubTexture name="SONICmoveIDLE0002" x="869" y="6" width="429" height="660" frameX="-3" frameY="-6" frameWidth="459" frameHeight="668"/>
+	<SubTexture name="SONICmoveIDLE0003" x="1310" y="12" width="426" height="658" frameX="-1" frameY="-2" frameWidth="459" frameHeight="668"/>
+	<SubTexture name="SONICmoveIDLE0004" x="1748" y="18" width="425" height="657" frameX="0" frameY="0" frameWidth="459" frameHeight="668"/>
+	<SubTexture name="SONICmoveIDLE0005" x="2205" y="17" width="426" height="657" frameX="0" frameY="0" frameWidth="459" frameHeight="668"/>
+	<SubTexture name="SONICmoveIDLE0006" x="2665" y="17" width="426" height="657" frameX="0" frameY="0" frameWidth="459" frameHeight="668"/>
+	<SubTexture name="SONICmoveIDLE0007" x="3121" y="16" width="424" height="657" frameX="-1" frameY="-1" frameWidth="459" frameHeight="668"/>
+	<SubTexture name="SONICmoveIDLE0008" x="3567" y="10" width="429" height="660" frameX="-3" frameY="-5" frameWidth="459" frameHeight="668"/>
+	<SubTexture name="SONICmoveIDLE0009" x="4" y="687" width="428" height="661" frameX="-4" frameY="-7" frameWidth="459" frameHeight="668"/>
+	<SubTexture name="SONICmoveIDLE0010" x="8" y="5" width="428" height="662" frameX="-4" frameY="-6" frameWidth="459" frameHeight="668"/>
+	<SubTexture name="SONICmoveLEFT0000" x="2623" y="694" width="526" height="680" frameX="0" frameY="0" frameWidth="566" frameHeight="702"/>
+	<SubTexture name="SONICmoveLEFT0001" x="3168" y="691" width="502" height="674" frameX="-46" frameY="-10" frameWidth="566" frameHeight="702"/>
+	<SubTexture name="SONICmoveLEFT0002" x="3262" y="1404" width="494" height="667" frameX="-69" frameY="-26" frameWidth="566" frameHeight="702"/>
+	<SubTexture name="SONICmoveRIGHT0000" x="1672" y="1413" width="514" height="709" frameX="0" frameY="-22" frameWidth="533" frameHeight="732"/>
+	<SubTexture name="SONICmoveRIGHT0001" x="2202" y="1414" width="479" height="730" frameX="-3" frameY="0" frameWidth="533" frameHeight="732"/>
+	<SubTexture name="SONICmoveRIGHT0002" x="2684" y="1414" width="472" height="713" frameX="-3" frameY="-17" frameWidth="533" frameHeight="732"/>
+	<SubTexture name="SONICmoveUP0000" x="8" y="2162" width="601" height="768" frameX="-6" frameY="0" frameWidth="629" frameHeight="777"/>
+	<SubTexture name="SONICmoveUP0001" x="633" y="2154" width="596" height="753" frameX="-11" frameY="-22" frameWidth="629" frameHeight="777"/>
+	<SubTexture name="SONICmoveUP0002" x="1236" y="2160" width="606" height="737" frameX="-11" frameY="-33" frameWidth="629" frameHeight="777"/>
+</TextureAtlas>

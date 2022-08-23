@@ -1,0 +1,11 @@
+{
+	
+	"image": "red_menu",
+	"position": [
+		-200,
+		-50
+	],
+	"scale": 1,
+	"idle_anim": "red menu instance",
+	"confirm_anim": "red menu instance"
+}

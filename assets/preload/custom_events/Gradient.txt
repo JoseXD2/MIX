@@ -1,0 +1,6 @@
+Ported for the Fourth Wall LOL sorry 
+to original creator
+
+Value1:
+1 - Play it 1 beat per min
+2 - Play it 2 beat per min

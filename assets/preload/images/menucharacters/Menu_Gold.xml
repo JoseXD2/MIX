@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu_Gold.png">
+	<SubTexture name="M Gold Idle0000" x="0" y="0" width="391" height="581" frameX="0" frameY="0" frameWidth="391" frameHeight="581"/>
+	<SubTexture name="M Gold Idle0001" x="391" y="0" width="391" height="581" frameX="0" frameY="0" frameWidth="391" frameHeight="581"/>
+	<SubTexture name="M Gold Idle0002" x="0" y="581" width="391" height="581" frameX="0" frameY="0" frameWidth="391" frameHeight="581"/>
+	<SubTexture name="M Gold Idle0003" x="391" y="581" width="391" height="581" frameX="0" frameY="0" frameWidth="391" frameHeight="581"/>
+	<SubTexture name="M Gold Idle0004" x="0" y="1162" width="391" height="581" frameX="0" frameY="0" frameWidth="391" frameHeight="581"/>
+	<SubTexture name="M Gold Idle0005" x="391" y="1162" width="391" height="581" frameX="0" frameY="0" frameWidth="391" frameHeight="581"/>
+	<SubTexture name="M Gold Idle0006" x="0" y="1743" width="391" height="581" frameX="0" frameY="0" frameWidth="391" frameHeight="581"/>
+	<SubTexture name="M Gold Idle0007" x="391" y="1743" width="391" height="581" frameX="0" frameY="0" frameWidth="391" frameHeight="581"/>
+</TextureAtlas>

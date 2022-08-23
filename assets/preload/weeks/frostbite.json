@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Nevasca",
+			"red",
+			[
+				180,
+				180,
+				180
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "black",
+	"difficulties": "",
+	"weekCharacters": [
+		"cold_gold_menu",
+		"red_menu",
+		""
+	],
+	"storyName": "frostbite",
+	"weekName": "frostbite",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

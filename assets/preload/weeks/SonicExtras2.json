@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Muito-Rapido", "Sanic", [42, 5, 118]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "Town",
+
+	"storyName": "",
+	"weekBefore": "",
+	"weekName": "",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

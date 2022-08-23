@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="Floor.png" width="2886" height="1602">
+  <SubTexture name="Floor000.png" x="0" y="0"  width="962" height="270" frameX="-0" frameY="-272" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="Floor009.png" x="962" y="0"  width="962" height="270" frameX="-0" frameY="-272" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="Floor001.png" x="1924" y="0"  width="962" height="269" frameX="-0" frameY="-273" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="Floor002.png" x="1924" y="269"  width="962" height="269" frameX="-0" frameY="-273" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="Floor008.png" x="0" y="270"  width="962" height="269" frameX="-0" frameY="-273" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="Floor010.png" x="962" y="270"  width="962" height="269" frameX="-0" frameY="-273" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="Floor011.png" x="1924" y="538"  width="962" height="269" frameX="-0" frameY="-273" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="Floor016.png" x="0" y="539"  width="962" height="269" frameX="-0" frameY="-273" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="Floor003.png" x="962" y="539"  width="962" height="268" frameX="-0" frameY="-274" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="Floor012.png" x="962" y="807"  width="962" height="268" frameX="-0" frameY="-274" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="Floor004.png" x="0" y="808"  width="962" height="265" frameX="-0" frameY="-277" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="Floor007.png" x="0" y="1073"  width="962" height="265" frameX="-0" frameY="-277" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="Floor013.png" x="1924" y="807"  width="962" height="265" frameX="-0" frameY="-277" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="Floor015.png" x="1924" y="1072"  width="962" height="265" frameX="-0" frameY="-277" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="Floor017.png" x="962" y="1075"  width="962" height="265" frameX="-0" frameY="-277" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="Floor005.png" x="0" y="1338"  width="962" height="264" frameX="-0" frameY="-278" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="Floor006.png" x="1924" y="1337"  width="962" height="264" frameX="-0" frameY="-278" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="Floor014.png" x="962" y="1340"  width="962" height="261" frameX="-0" frameY="-281" frameWidth="962" frameHeight="542"/>
+</TextureAtlas>

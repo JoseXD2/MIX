@@ -1,0 +1,39 @@
+{
+	"storyName": "too slow buddy!",
+	"hideFreeplay": false,
+	"weekBackground": "exe",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Farsa",
+			"Faker",
+			[
+				0,
+				60,
+				193
+			]
+		],
+		[
+			"Sol-negro",
+			"exe",
+			[
+				0,
+				0,
+				93
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Faker"
+}

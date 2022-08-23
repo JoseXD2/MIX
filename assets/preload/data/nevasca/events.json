@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "Cold",
+		"player1": "Cold_Gold",
+		"player2": "mt_silver_red_norm",
+		"player3": "nogf",
+		"events": [
+            [
+				90000.4545454545,
+				[
+					[
+						"Change Character",
+						"1",
+						"mt_silver_red_dead"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 110,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Nevasca"
+	}
+}

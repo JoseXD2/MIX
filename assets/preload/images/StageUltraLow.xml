@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="StageUltraLow.png" width="2886" height="2710">
+  <SubTexture name="XD01.png" x="0" y="0"  width="962" height="542" frameX="-0" frameY="-0" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="XD02.png" x="0" y="542"  width="962" height="542" frameX="-0" frameY="-0" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="XD03.png" x="962" y="0"  width="962" height="542" frameX="-0" frameY="-0" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="XD04.png" x="962" y="542"  width="962" height="542" frameX="-0" frameY="-0" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="XD05.png" x="0" y="1084"  width="962" height="542" frameX="-0" frameY="-0" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="XD06.png" x="962" y="1084"  width="962" height="542" frameX="-0" frameY="-0" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="XD07.png" x="0" y="1626"  width="962" height="542" frameX="-0" frameY="-0" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="XD08.png" x="962" y="1626"  width="962" height="542" frameX="-0" frameY="-0" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="XD09.png" x="1924" y="0"  width="962" height="542" frameX="-0" frameY="-0" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="XD10.png" x="1924" y="542"  width="962" height="542" frameX="-0" frameY="-0" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="XD11.png" x="1924" y="1084"  width="962" height="542" frameX="-0" frameY="-0" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="XD12.png" x="1924" y="1626"  width="962" height="542" frameX="-0" frameY="-0" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="XD13.png" x="0" y="2168"  width="962" height="542" frameX="-0" frameY="-0" frameWidth="962" frameHeight="542"/>
+  <SubTexture name="XD14.png" x="962" y="2168"  width="962" height="542" frameX="-0" frameY="-0" frameWidth="962" frameHeight="542"/>
+</TextureAtlas>

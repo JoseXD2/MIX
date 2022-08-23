@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-54,
+				-291
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"name": "down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-57,
+				-356
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"name": "left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				70,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-136,
+				-341
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-104,
+				-197
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-160,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "phone",
+			"name": "phone",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/scott",
+	"position": [
+		-140,
+		120
+	],
+	"healthicon": "scott",
+	"flip_x": false,
+	"healthbar_colors": [
+		188,
+		225,
+		250
+	],
+	"camera_position": [
+		-410,
+		-200
+	],
+	"sing_duration": 6.1,
+	"scale": 3.75
+}
